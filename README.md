@@ -14,8 +14,8 @@
 
 
 ### Medium Blogs
-<!--START_SECTION:medium-->
-<!--END_SECTION:medium-->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
