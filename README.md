@@ -13,11 +13,6 @@
 - 📫 How to reach me : [LinkedIn](https://lk.linkedin.com/in/randiltennakoon)
 
 
----
-<p>
-<img align="left" alt="randiltennakoon's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=randiltennakoon&show_icons=true&hide_border=true" />
-</p>
----
 
 ### Medium Blogs
 <!-- BLOG-POST-LIST:START -->
@@ -27,6 +22,10 @@
 - [Getting Started with Minikube as Your Local Kubernetes Cluster](https://levelup.gitconnected.com/getting-started-with-minikube-as-your-local-kubernetes-cluster-d4eecbb4674e?source=rss-b2aa6ee0b2d5------2)
 - [How to Create a Containerised Go Application which Can Execute Shell Commands.](https://levelup.gitconnected.com/how-to-create-a-containerised-go-application-which-can-execute-shell-commands-3677176950f3?source=rss-b2aa6ee0b2d5------2)
 <!-- BLOG-POST-LIST:END -->
+
+---
+<img align="left" alt="randiltennakoon's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=randiltennakoon&show_icons=true&hide_border=true" />
+---
 
 
 
