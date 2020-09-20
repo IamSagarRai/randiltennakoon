@@ -13,9 +13,8 @@
 - 📫 How to reach me : [LinkedIn](https://lk.linkedin.com/in/randiltennakoon)
 
 
----
-<img align="left" alt="randiltennakoon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=randiltennakoon&show_icons=true&hide_border=true" />
-
+### Github Stats
+<img align="left" alt="randiltennakoon's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=randiltennakoon&show_icons=true&hide_border=true" />
 
 ### Medium Blogs
 <!-- BLOG-POST-LIST:START -->
