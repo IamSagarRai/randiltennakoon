@@ -17,6 +17,8 @@
 <img align="left" alt="randiltennakoon's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=randiltennakoon&show_icons=true&hide_border=true" />
 <br />
 
+---
+
 ### Medium Blogs
 <!-- BLOG-POST-LIST:START -->
 - [Understanding Jobs in Kubernetes](https://levelup.gitconnected.com/understanding-jobs-in-kubernetes-541614ccd796?source=rss-b2aa6ee0b2d5------2)
