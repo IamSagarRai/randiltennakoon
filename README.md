@@ -11,7 +11,7 @@
 - 🌱 I’ve blogged in [Medium](https://medium.com/@randilt) 
 
 - 📫 How to reach me : [LinkedIn](https://lk.linkedin.com/in/randiltennakoon)
-<!-- - 😄 Pronouns: he/him/his -->
+
 
 ### Medium Blogs
 <!--START_SECTION:medium-->
