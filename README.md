@@ -15,6 +15,11 @@
 
 ### Medium Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Jobs in Kubernetes](https://levelup.gitconnected.com/understanding-jobs-in-kubernetes-541614ccd796?source=rss-b2aa6ee0b2d5------2)
+- [Is Your MacBook Pro Battery Draining While Plugged In?](https://medium.com/macoclock/is-your-macbook-pro-battery-draining-while-plugged-in-4667373e01f8?source=rss-b2aa6ee0b2d5------2)
+- [Deploying a Complete Node.js Application in Kubernetes](https://levelup.gitconnected.com/deploying-a-complete-node-js-application-in-kubernetes-90222481561f?source=rss-b2aa6ee0b2d5------2)
+- [Getting Started with Minikube as Your Local Kubernetes Cluster](https://levelup.gitconnected.com/getting-started-with-minikube-as-your-local-kubernetes-cluster-d4eecbb4674e?source=rss-b2aa6ee0b2d5------2)
+- [How to Create a Containerised Go Application which Can Execute Shell Commands.](https://levelup.gitconnected.com/how-to-create-a-containerised-go-application-which-can-execute-shell-commands-3677176950f3?source=rss-b2aa6ee0b2d5------2)
 <!-- BLOG-POST-LIST:END -->
 
 
