@@ -4,7 +4,7 @@
 
 - 👨🏻‍💻 I’m currently working as a Software Engineer Intern and I'm an undergraduate at University of Moratuwa.
 
-- 💬 Ask me about: Java, NodeJS, Docker & Kubernetes
+- 💬 Ask me about: Java, Golang, jQuery, NodeJS, Docker & Kubernetes
 
 - 🤔 I’m on Twitter : https://twitter.com/randilt92
 
