@@ -12,6 +12,8 @@
 
 - 📫 How to reach me : [LinkedIn](https://lk.linkedin.com/in/randiltennakoon)
 
+- 😄 Pronouns: he/him/his
+
 
 
 ### Medium Blogs
