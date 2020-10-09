@@ -18,11 +18,11 @@
 
 ### Medium Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Integrating Argo CD for Your Kubernetes Project](https://levelup.gitconnected.com/integrating-argo-cd-for-your-kubernetes-project-ba6e49dfebaa?source=rss-b2aa6ee0b2d5------2)
 - [Improved Apple’s Privacy is Awesome](https://medium.com/macoclock/improved-apples-privacy-is-awesome-c51183891f32?source=rss-b2aa6ee0b2d5------2)
 - [Understanding Jobs in Kubernetes](https://levelup.gitconnected.com/understanding-jobs-in-kubernetes-541614ccd796?source=rss-b2aa6ee0b2d5------2)
 - [Is Your MacBook Pro Battery Draining While Plugged In?](https://medium.com/macoclock/is-your-macbook-pro-battery-draining-while-plugged-in-4667373e01f8?source=rss-b2aa6ee0b2d5------2)
 - [Deploying a Complete Node.js Application in Kubernetes](https://levelup.gitconnected.com/deploying-a-complete-node-js-application-in-kubernetes-90222481561f?source=rss-b2aa6ee0b2d5------2)
-- [Getting Started with Minikube as Your Local Kubernetes Cluster](https://levelup.gitconnected.com/getting-started-with-minikube-as-your-local-kubernetes-cluster-d4eecbb4674e?source=rss-b2aa6ee0b2d5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
