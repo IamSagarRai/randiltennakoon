@@ -2,9 +2,9 @@
 
 - 🔭 I’m Randil. Thanks for reaching me out. ☺️
 
-- 👨🏻‍💻 I’m currently working as a Software Engineer Intern and I'm an undergraduate at University of Moratuwa.
+- 👨🏻‍💻 I'm an undergraduate at University of Moratuwa and I’m a former Software Engineer Intern at IFS.
 
-- 💬 Ask me about: Java, Golang, jQuery, NodeJS, Docker & Kubernetes
+- 💬 Ask me about: Java, Golang, jQuery, NodeJS, Shell Scripting, Docker & Kubernetes
 
 - 🤔 I’m on Twitter : https://twitter.com/randilt92
 
