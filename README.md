@@ -18,11 +18,11 @@
 
 ### Medium Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Useful Docker Commands for Software Developers](https://levelup.gitconnected.com/useful-docker-commands-for-software-developers-f1f73911defc?source=rss-b2aa6ee0b2d5------2)
 - [How to Use Kustomize for Your Kubernetes Projects](https://medium.com/better-programming/how-to-use-kustomize-for-your-kubernetes-projects-42a90c00bd56?source=rss-b2aa6ee0b2d5------2)
 - [How to Push a Dockerized Node.js App to a Container Registry](https://medium.com/javascript-in-plain-english/how-to-push-a-dockerized-node-js-app-to-a-container-registry-5a3f6599894c?source=rss-b2aa6ee0b2d5------2)
 - [Getting Started with CronJobs in Kubernetes](https://levelup.gitconnected.com/getting-started-with-cronjobs-in-kubernetes-da94263d4887?source=rss-b2aa6ee0b2d5------2)
 - [Serving Static Files Using a Go Web Server](https://codeburst.io/serving-static-files-using-a-go-web-server-d5025157a84e?source=rss-b2aa6ee0b2d5------2)
-- [How to Create A Real-Time Clock for Web Applications](https://medium.com/javascript-in-plain-english/how-to-create-a-real-time-clock-for-web-applications-feaedc8523c5?source=rss-b2aa6ee0b2d5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
