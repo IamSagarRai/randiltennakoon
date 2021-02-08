@@ -4,7 +4,7 @@
 
 - 👨🏻‍💻 I'm an undergraduate at University of Moratuwa and I’m a former Software Engineer Intern at IFS.
 
-- 💬 Ask me about: Java, Golang, jQuery, NodeJS, Shell Scripting, Docker & Kubernetes
+- 💬 Ask me about: Java, Golang, jQuery, NodeJS, Shell Scripting, Flutter, Docker & Kubernetes
 
 - 🤔 I’m on Twitter : https://twitter.com/randilt92
 
