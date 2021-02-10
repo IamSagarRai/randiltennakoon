@@ -26,7 +26,22 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randiltennakoon)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- --- -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=randiltennakoon)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- --- -->
 <img align="left" alt="randiltennakoon's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=randiltennakoon&show_icons=true&hide_border=true" />
+
+
+![GitHub metrics](https://metrics.lecoq.io/randiltennakoon)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=randiltennakoon)  
+
+![Profile views](https://gpvc.arturio.dev/randiltennakoon)
 
 
 
