@@ -8,7 +8,7 @@
 
 - 🤔 I’m on Twitter : https://twitter.com/randilt92
 
-- 🌱 I’ve blogged in [Medium](https://medium.com/@randilt) 
+- 🌱 I’ve blogged in [Medium](https://randiltennakoon.medium.com) 
 
 - 📫 How to reach me : [LinkedIn](https://lk.linkedin.com/in/randiltennakoon)
 
