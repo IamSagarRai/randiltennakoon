@@ -18,11 +18,11 @@
 
 ### Medium Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Why iOS 14.5 Update is This Much Important?](https://medium.com/macoclock/why-ios-14-5-update-is-this-much-important-e3e53ff7c021?source=rss-b2aa6ee0b2d5------2)
 - [Understanding Functions in Dart](https://medium.com/better-programming/understanding-functions-in-dart-db2675394339?source=rss-b2aa6ee0b2d5------2)
 - [Useful Docker Commands for Software Developers](https://levelup.gitconnected.com/useful-docker-commands-for-software-developers-f1f73911defc?source=rss-b2aa6ee0b2d5------2)
 - [How to Use Kustomize for Your Kubernetes Projects](https://medium.com/better-programming/how-to-use-kustomize-for-your-kubernetes-projects-42a90c00bd56?source=rss-b2aa6ee0b2d5------2)
 - [How to Push a Dockerized Node.js App to a Container Registry](https://medium.com/javascript-in-plain-english/how-to-push-a-dockerized-node-js-app-to-a-container-registry-5a3f6599894c?source=rss-b2aa6ee0b2d5------2)
-- [Getting Started with CronJobs in Kubernetes](https://levelup.gitconnected.com/getting-started-with-cronjobs-in-kubernetes-da94263d4887?source=rss-b2aa6ee0b2d5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- --- -->
