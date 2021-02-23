@@ -2,7 +2,7 @@
 
 - 🔭 I’m Randil. Thanks for reaching me out. ☺️
 
-- 👨🏻‍💻 I'm an undergraduate at University of Moratuwa and I’m a former Software Engineer Intern at IFS.
+- 👨🏻‍💻 I'm an undergraduate at University of Moratuwa and I’m a former Software Engineer Intern at [IFS](https://www.linkedin.com/company/ifs).
 
 - 💬 Ask me about: Java, Golang, jQuery, NodeJS, Shell Scripting, Dart, Flutter, Docker & Kubernetes
 
