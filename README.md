@@ -18,11 +18,11 @@
 
 ### Medium Blogs
 <!-- BLOG-POST-LIST:START -->
-- [CTF — Capture the Flag Challenges.](https://medium.com/@randiltennakoon/ctf-capture-the-flag-challenges-61a39311fa6d?source=rss-b2aa6ee0b2d5------2)
+- [Why sometimes iPhone Stopped Charging at 80 percent.](https://medium.com/macoclock/why-sometimes-iphone-stopped-charging-at-80-percent-fc4ebade99ad?source=rss-b2aa6ee0b2d5------2)
+- [CTF — Capture the Flag Challenges.](https://medium.com/dev-genius/ctf-capture-the-flag-challenges-61a39311fa6d?source=rss-b2aa6ee0b2d5------2)
 - [How to Use override annotation and super Keyword in Dart.](https://levelup.gitconnected.com/how-to-use-override-annotation-and-super-keyword-in-dart-68db7bd8b78d?source=rss-b2aa6ee0b2d5------2)
 - [Why iOS 14.5 Update is This Much Important?](https://medium.com/macoclock/why-ios-14-5-update-is-this-much-important-e3e53ff7c021?source=rss-b2aa6ee0b2d5------2)
 - [Understanding Functions in Dart](https://betterprogramming.pub/understanding-functions-in-dart-db2675394339?source=rss-b2aa6ee0b2d5------2)
-- [Useful Docker Commands for Software Developers](https://levelup.gitconnected.com/useful-docker-commands-for-software-developers-f1f73911defc?source=rss-b2aa6ee0b2d5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- --- -->
