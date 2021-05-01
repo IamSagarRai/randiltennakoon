@@ -22,7 +22,7 @@
 - [Every Apple Product will be Carbon Neutral by 2030](https://medium.com/macoclock/every-apple-product-will-be-carbon-neutral-by-2030-6dd49d7948a2?source=rss-b2aa6ee0b2d5------2)
 - [Why did I Choose Apple Music over Spotify?](https://medium.com/macoclock/why-did-i-choose-apple-music-over-spotify-b4def37d0c2f?source=rss-b2aa6ee0b2d5------2)
 - [Why sometimes iPhone Stopped Charging at 80 percent.](https://medium.com/macoclock/why-sometimes-iphone-stopped-charging-at-80-percent-fc4ebade99ad?source=rss-b2aa6ee0b2d5------2)
-- [CTF — Capture the Flag Challenges.](https://medium.com/dev-genius/ctf-capture-the-flag-challenges-61a39311fa6d?source=rss-b2aa6ee0b2d5------2)
+- [CTF — Capture the Flag Challenges.](https://blog.devgenius.io/ctf-capture-the-flag-challenges-61a39311fa6d?source=rss-b2aa6ee0b2d5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- --- -->
