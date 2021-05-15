@@ -18,11 +18,11 @@
 
 ### Medium Blogs
 <!-- BLOG-POST-LIST:START -->
+- [How to Practice Digital Minimalism with Your iPhone](https://medium.com/macoclock/how-to-practice-digital-minimalism-with-your-iphone-132a3468d6b7?source=rss-b2aa6ee0b2d5------2)
 - [The Wait is over; iOS 14.5 is available for iPhones.](https://medium.com/macoclock/the-wait-is-over-ios-14-5-is-available-for-iphones-182d1a43b1e8?source=rss-b2aa6ee0b2d5------2)
 - [Every Apple Product will be Carbon Neutral by 2030](https://medium.com/macoclock/every-apple-product-will-be-carbon-neutral-by-2030-6dd49d7948a2?source=rss-b2aa6ee0b2d5------2)
 - [Why did I Choose Apple Music over Spotify?](https://medium.com/macoclock/why-did-i-choose-apple-music-over-spotify-b4def37d0c2f?source=rss-b2aa6ee0b2d5------2)
 - [Why sometimes iPhone Stopped Charging at 80 percent.](https://medium.com/macoclock/why-sometimes-iphone-stopped-charging-at-80-percent-fc4ebade99ad?source=rss-b2aa6ee0b2d5------2)
-- [CTF — Capture the Flag Challenges.](https://blog.devgenius.io/ctf-capture-the-flag-challenges-61a39311fa6d?source=rss-b2aa6ee0b2d5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- --- -->
