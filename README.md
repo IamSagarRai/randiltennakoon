@@ -6,7 +6,7 @@
 
 - 💬 Ask me about: Java, Golang, jQuery, NodeJS, Shell Scripting, Dart, Flutter, Docker & Kubernetes
 
-- 🤔 I’m on Twitter : https://twitter.com/randilt92
+- 🤔 I’m on [Twitter](https://twitter.com/randilt92) | [Instagram](https://www.instagram.com/randilt92)
 
 - 🌱 I’ve blogged in [Medium](https://randiltennakoon.medium.com) 
 
