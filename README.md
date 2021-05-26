@@ -17,8 +17,8 @@
 ---
 ### 📄 Global Certifications
 - [Getting Started with Google Kubernetes Engine](https://www.coursera.org/account/accomplishments/records/KHP2Z9NZ9FY7?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-- [AWS Fundamentals: Going Cloud-Native](https://coursera.org/share/a527b8fa5b14962328c02a3c3e8b54f9)
 - [Postman Student Expert](https://api.badgr.io/public/assertions/rAqixGsKSpeFdMZ4KgqO1w?identity__email=randilvta%40gmail.com)
+- [AWS Fundamentals: Going Cloud-Native](https://coursera.org/share/a527b8fa5b14962328c02a3c3e8b54f9)
 - [Introduction to Cybersecurity](https://www.youracclaim.com/badges/9061852c-fdf7-4219-926b-523d30a31111?source=linked_in_profile)
 
 
