@@ -15,6 +15,7 @@
 - 😄 Pronouns: he/him/his
 
 ---
+<!-- **📄 Global Certifications** -->
 ### 📄 Global Certifications
 - [Getting Started with Google Kubernetes Engine](https://www.coursera.org/account/accomplishments/records/KHP2Z9NZ9FY7?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 - [Postman Student Expert](https://api.badgr.io/public/assertions/rAqixGsKSpeFdMZ4KgqO1w?identity__email=randilvta%40gmail.com)
