@@ -14,9 +14,16 @@
 
 - 😄 Pronouns: he/him/his
 
+---
+### 📄 Global Certifications
+- [Getting Started with Google Kubernetes Engine](https://www.coursera.org/account/accomplishments/records/KHP2Z9NZ9FY7?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+- [AWS Fundamentals: Going Cloud-Native](https://coursera.org/share/a527b8fa5b14962328c02a3c3e8b54f9)
+- [Postman Student Expert](https://api.badgr.io/public/assertions/rAqixGsKSpeFdMZ4KgqO1w?identity__email=randilvta%40gmail.com)
+- [Introduction to Cybersecurity](https://www.youracclaim.com/badges/9061852c-fdf7-4219-926b-523d30a31111?source=linked_in_profile)
 
 
-### Medium Blogs
+
+### 📕 Medium Blogs
 <!-- BLOG-POST-LIST:START -->
 - [How to Practice Digital Minimalism with Your iPhone](https://medium.com/macoclock/how-to-practice-digital-minimalism-with-your-iphone-132a3468d6b7?source=rss-b2aa6ee0b2d5------2)
 - [The Wait is over; iOS 14.5 is available for iPhones.](https://medium.com/macoclock/the-wait-is-over-ios-14-5-is-available-for-iphones-182d1a43b1e8?source=rss-b2aa6ee0b2d5------2)
@@ -25,6 +32,7 @@
 - [Why sometimes iPhone Stopped Charging at 80 percent.](https://medium.com/macoclock/why-sometimes-iphone-stopped-charging-at-80-percent-fc4ebade99ad?source=rss-b2aa6ee0b2d5------2)
 <!-- BLOG-POST-LIST:END -->
 
+---
 <!-- --- -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randiltennakoon)](https://github.com/anuraghazra/github-readme-stats)
