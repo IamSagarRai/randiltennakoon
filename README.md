@@ -1,4 +1,4 @@
-<h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 - 🔭 I’m Randil. Thanks for reaching me out. ☺️
 
@@ -12,9 +12,11 @@
 
 - 📫 How to reach me : [LinkedIn](https://lk.linkedin.com/in/randiltennakoon)
 
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/him/his  
 
+[![Twitter Badge](https://img.shields.io/badge/-randilt92-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/randilt92/)](https://twitter.com/randilt92)  [![Linkedin Badge](https://img.shields.io/badge/-randiltennakoon-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/randiltennakoon)](https://www.linkedin.com/in/randiltennakoon)  [![Medium Badge](https://img.shields.io/badge/-@randiltennakoon-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@randiltennakoon)](https://randiltennakoon.medium.com)
 
+<!-- [![twitter-follower](https://img.shields.io/twitter/follow/randilt92?style=social)](https://twitter.com/randilt92)  -->
 
 ---
 <!-- **📄 Global Certifications** -->
