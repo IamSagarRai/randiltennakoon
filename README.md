@@ -14,6 +14,8 @@
 
 - 😄 Pronouns: he/him/his
 
+
+
 ---
 <!-- **📄 Global Certifications** -->
 ### 📄 Global Certifications
