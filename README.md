@@ -2,7 +2,7 @@
 
 - 🔭 I’m Randil. Thanks for reaching me out. ☺️
 
-- 👨🏻‍💻 I'm an undergraduate at University of Moratuwa and I’m a former Software Engineer Intern at [IFS](https://www.linkedin.com/company/ifs).
+- 👨🏻‍💻 I'm an undergraduate at **University of Moratuwa** and I’m a former Software Engineer Intern at [IFS](https://www.linkedin.com/company/ifs).
 
 - 💬 Ask me about: Java, Golang, jQuery, NodeJS, Shell Scripting, Dart, Flutter, Docker & Kubernetes
 
@@ -34,6 +34,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
+[![Randil's github stats](https://github-readme-stats.vercel.app/api?username=randiltennakoon&theme=dark&show_icons=true)](https://github.com/randiltennakoon)
 <!-- --- -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randiltennakoon)](https://github.com/anuraghazra/github-readme-stats)
@@ -43,9 +45,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=randiltennakoon)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- --- -->
-<!-- 
-<img align="left" alt="randiltennakoon's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=randiltennakoon&show_icons=true&hide_border=true" /> 
--->
+
+<!-- <img align="left" alt="randiltennakoon's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=randiltennakoon&show_icons=true&hide_border=true" /> -->
+
 
 
 ![GitHub metrics](https://metrics.lecoq.io/randiltennakoon)  
