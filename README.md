@@ -36,8 +36,8 @@
 ---
 
 [![Randil's github stats](https://github-readme-stats.vercel.app/api?username=randiltennakoon&theme=dark&show_icons=true)](https://github.com/randiltennakoon)
-<!-- --- -->
 
+<!-- --- -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randiltennakoon)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- --- -->
