@@ -35,11 +35,11 @@
 
 ### 📕 Medium Blogs
 <!-- BLOG-POST-LIST:START -->
+- [10 Simple Hacks to Improve your English Knowledge -Part 1](https://randiltennakoon.medium.com/10-simple-hacks-to-improve-your-english-knowledge-part-1-d7c4612b60b7?source=rss-b2aa6ee0b2d5------2)
 - [My Experience as a ScholarX Mentee -part 1](https://randiltennakoon.medium.com/my-experience-as-a-scholarx-mentee-part-1-6321c8bf4ed9?source=rss-b2aa6ee0b2d5------2)
 - [The Difference between Arrays and Slices in Golang](https://levelup.gitconnected.com/the-difference-between-arrays-and-slices-in-golang-7ad9b39a5bbe?source=rss-b2aa6ee0b2d5------2)
 - [Everything New in FaceTime](https://medium.com/macoclock/everything-new-in-facetime-aa2502bfa9d3?source=rss-b2aa6ee0b2d5------2)
 - [My Favourite Features in the Apple Ecosystem](https://medium.com/macoclock/my-favourite-features-in-the-apple-ecosystem-8bf44e04799f?source=rss-b2aa6ee0b2d5------2)
-- [How does Apple App Clips actually Work?](https://medium.com/macoclock/how-does-apple-app-clips-actually-work-2d6560b59f64?source=rss-b2aa6ee0b2d5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
