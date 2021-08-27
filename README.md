@@ -35,11 +35,11 @@
 
 ### 📕 Medium Blogs
 <!-- BLOG-POST-LIST:START -->
+- [10 Simple Hacks to Improve your English Knowledge -Part 2](https://randiltennakoon.medium.com/10-simple-hacks-to-improve-your-english-knowledge-part-2-ecebd4f7a518?source=rss-b2aa6ee0b2d5------2)
 - [How to Use Facebook Productively?](https://randiltennakoon.medium.com/how-to-use-facebook-productively-54e1e93f80e8?source=rss-b2aa6ee0b2d5------2)
 - [10 Simple Hacks to Improve your English Knowledge -Part 1](https://randiltennakoon.medium.com/10-simple-hacks-to-improve-your-english-knowledge-part-1-d7c4612b60b7?source=rss-b2aa6ee0b2d5------2)
 - [My Experience as a ScholarX Mentee -part 1](https://randiltennakoon.medium.com/my-experience-as-a-scholarx-mentee-part-1-6321c8bf4ed9?source=rss-b2aa6ee0b2d5------2)
 - [The Difference between Arrays and Slices in Golang](https://levelup.gitconnected.com/the-difference-between-arrays-and-slices-in-golang-7ad9b39a5bbe?source=rss-b2aa6ee0b2d5------2)
-- [Everything New in FaceTime](https://medium.com/macoclock/everything-new-in-facetime-aa2502bfa9d3?source=rss-b2aa6ee0b2d5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
