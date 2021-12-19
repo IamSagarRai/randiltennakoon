@@ -33,6 +33,13 @@
 
 ---
 
+### 📕 Medium Blogs
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 [![Randil's github stats](https://github-readme-stats.vercel.app/api?username=randiltennakoon&theme=dark&show_icons=true)](https://github.com/randiltennakoon)
 
 <!-- --- -->
