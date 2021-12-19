@@ -35,7 +35,9 @@
 
 ### 📕 Medium Blogs
 <!-- BLOG-POST-LIST:START -->
-
+- [Understanding Functions in Dart](https://randiltennakoon.medium.com/understanding-functions-in-dart-404d0d408e5f?source=rss-71d60f60a8aa------2)
+- [Understanding Functions in JavaScript](https://randiltennakoon.medium.com/understanding-functions-in-javascript-9846268cd88e?source=rss-71d60f60a8aa------2)
+- [Introduction to Hashing.](https://randiltennakoon.medium.com/introduction-to-hashing-9801663e5c5e?source=rss-71d60f60a8aa------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
