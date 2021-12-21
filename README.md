@@ -33,9 +33,11 @@
 
 ### 📕 Medium Blogs
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Functions in Dart](https://randiltennakoon.medium.com/understanding-functions-in-dart-404d0d408e5f?source=rss-71d60f60a8aa------2)
-- [Understanding Functions in JavaScript](https://randiltennakoon.medium.com/understanding-functions-in-javascript-9846268cd88e?source=rss-71d60f60a8aa------2)
-- [Introduction to Hashing.](https://randiltennakoon.medium.com/introduction-to-hashing-9801663e5c5e?source=rss-71d60f60a8aa------2)
+- [Tips and Tricks to be More Productive With Your Mac](https://randiltennakoon.medium.com/tips-and-tricks-to-be-more-productive-with-your-mac-ad8060739e7d?source=rss-71d60f60a8aa------2)
+- [10 Features Hidden in Your Mac -Part 2](https://randiltennakoon.medium.com/10-features-hidden-in-your-mac-part-2-618020d49b40?source=rss-71d60f60a8aa------2)
+- [10 Features Hidden in Your Mac](https://randiltennakoon.medium.com/10-features-hidden-in-your-mac-1ae526b18cf6?source=rss-71d60f60a8aa------2)
+- [The Difference between Arrays and Slices in Golang](https://randiltennakoon.medium.com/the-difference-between-arrays-and-slices-in-golang-6a7b3781c14a?source=rss-71d60f60a8aa------2)
+- [Understanding Basic Routes in Express.js](https://randiltennakoon.medium.com/understanding-basic-routes-in-express-js-9fa30d1a5188?source=rss-71d60f60a8aa------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
