@@ -33,11 +33,11 @@
 
 ### 📕 Medium Blogs
 <!-- BLOG-POST-LIST:START -->
-- [Tips and Tricks to be More Productive With Your Mac](https://randiltennakoon.medium.com/tips-and-tricks-to-be-more-productive-with-your-mac-ad8060739e7d?source=rss-71d60f60a8aa------2)
-- [10 Features Hidden in Your Mac -Part 2](https://randiltennakoon.medium.com/10-features-hidden-in-your-mac-part-2-618020d49b40?source=rss-71d60f60a8aa------2)
-- [10 Features Hidden in Your Mac](https://randiltennakoon.medium.com/10-features-hidden-in-your-mac-1ae526b18cf6?source=rss-71d60f60a8aa------2)
-- [The Difference between Arrays and Slices in Golang](https://randiltennakoon.medium.com/the-difference-between-arrays-and-slices-in-golang-6a7b3781c14a?source=rss-71d60f60a8aa------2)
-- [Understanding Basic Routes in Express.js](https://randiltennakoon.medium.com/understanding-basic-routes-in-express-js-9fa30d1a5188?source=rss-71d60f60a8aa------2)
+- [How to Create A Real-Time Clock for Web Applications](https://javascript.plainenglish.io/how-to-create-a-real-time-clock-for-web-applications-3cf7a9cf6500?source=rss-71d60f60a8aa------2)
+- [A Beginner’s Guide to Hosting a Website Using Firebase](https://towardsdev.com/a-beginners-guide-to-hosting-a-website-using-firebase-eb46c6286ab1?source=rss-71d60f60a8aa------2)
+- [Useful Resources to Level Up Your Skills During the Pandemic.](https://randiltennakoon.medium.com/useful-resources-to-level-up-your-skills-during-the-pandemic-acb1883ce7f8?source=rss-71d60f60a8aa------2)
+- [Apple Handoff](https://randiltennakoon.medium.com/apple-handoff-cc542710f755?source=rss-71d60f60a8aa------2)
+- [Is Your MacBook Pro Battery Draining While Plugged In?](https://randiltennakoon.medium.com/is-your-macbook-pro-battery-draining-while-plugged-in-d626559ac15?source=rss-71d60f60a8aa------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
