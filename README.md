@@ -33,11 +33,11 @@
 
 ### 📕 Medium Blogs
 <!-- BLOG-POST-LIST:START -->
-- [How to Create A Real-Time Clock for Web Applications](https://javascript.plainenglish.io/how-to-create-a-real-time-clock-for-web-applications-3cf7a9cf6500?source=rss-71d60f60a8aa------2)
-- [A Beginner’s Guide to Hosting a Website Using Firebase](https://towardsdev.com/a-beginners-guide-to-hosting-a-website-using-firebase-eb46c6286ab1?source=rss-71d60f60a8aa------2)
-- [Useful Resources to Level Up Your Skills During the Pandemic.](https://randiltennakoon.medium.com/useful-resources-to-level-up-your-skills-during-the-pandemic-acb1883ce7f8?source=rss-71d60f60a8aa------2)
-- [Apple Handoff](https://randiltennakoon.medium.com/apple-handoff-cc542710f755?source=rss-71d60f60a8aa------2)
-- [Is Your MacBook Pro Battery Draining While Plugged In?](https://randiltennakoon.medium.com/is-your-macbook-pro-battery-draining-while-plugged-in-d626559ac15?source=rss-71d60f60a8aa------2)
+- [How to Use Kustomize for Your Kubernetes Projects](https://randiltennakoon.medium.com/how-to-use-kustomize-for-your-kubernetes-projects-2f6c7f72fabb?source=rss-71d60f60a8aa------2)
+- [Getting Started with CronJobs in Kubernetes](https://randiltennakoon.medium.com/getting-started-with-cronjobs-in-kubernetes-d3cfce10fd9b?source=rss-71d60f60a8aa------2)
+- [Understanding Jobs in Kubernetes](https://randiltennakoon.medium.com/understanding-jobs-in-kubernetes-68ac21b272d8?source=rss-71d60f60a8aa------2)
+- [Deploying a Complete Node.js Application in Kubernetes](https://randiltennakoon.medium.com/deploying-a-complete-node-js-application-in-kubernetes-d747986e1e61?source=rss-71d60f60a8aa------2)
+- [Getting Started with Minikube as Your Local Kubernetes Cluster](https://randiltennakoon.medium.com/getting-started-with-minikube-as-your-local-kubernetes-cluster-cfebf87abc39?source=rss-71d60f60a8aa------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
