@@ -6,7 +6,7 @@
 
 - 💬 Ask me about: Java, Golang, jQuery, NodeJS, Shell Scripting, Dart, Flutter, Docker & Kubernetes
 
-- 🤔 I’m on: [Twitter](https://twitter.com/TennakoonRandil) | [Medium](https://randiltennakoon.medium.com)
+- 🤔 I’m on: [Medium](https://randiltennakoon.medium.com)
 
 
 - 📫 How to reach me : [LinkedIn](https://lk.linkedin.com/in/randiltennakoon)
