@@ -33,9 +33,9 @@
 
 ### 📕 Medium Blogs
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Argo CD for Your Kubernetes Project](https://randiltennakoon.medium.com/integrating-argo-cd-for-your-kubernetes-project-79ef16011433?source=rss-71d60f60a8aa------2)
-- [How to Use Kustomize for Your Kubernetes Projects](https://randiltennakoon.medium.com/how-to-use-kustomize-for-your-kubernetes-projects-2f6c7f72fabb?source=rss-71d60f60a8aa------2)
-- [Getting Started with CronJobs in Kubernetes](https://randiltennakoon.medium.com/getting-started-with-cronjobs-in-kubernetes-d3cfce10fd9b?source=rss-71d60f60a8aa------2)
+- [Integrating Argo CD for Your Kubernetes Project](https://faun.pub/integrating-argo-cd-for-your-kubernetes-project-79ef16011433?source=rss-71d60f60a8aa------2)
+- [How to Use Kustomize for Your Kubernetes Projects](https://faun.pub/how-to-use-kustomize-for-your-kubernetes-projects-2f6c7f72fabb?source=rss-71d60f60a8aa------2)
+- [Getting Started with CronJobs in Kubernetes](https://faun.pub/getting-started-with-cronjobs-in-kubernetes-d3cfce10fd9b?source=rss-71d60f60a8aa------2)
 - [Understanding Jobs in Kubernetes](https://levelup.gitconnected.com/understanding-jobs-in-kubernetes-68ac21b272d8?source=rss-71d60f60a8aa------2)
 - [Deploying a Complete Node.js Application in Kubernetes](https://levelup.gitconnected.com/deploying-a-complete-node-js-application-in-kubernetes-d747986e1e61?source=rss-71d60f60a8aa------2)
 <!-- BLOG-POST-LIST:END -->
