@@ -4,7 +4,7 @@
 
 - 👨🏻‍💻 I'm an undergraduate at **University of Moratuwa** and I’m a former Software Engineer Intern at [IFS](https://www.linkedin.com/company/ifs).
 
-- 💬 Ask me about: Java, Golang, Python, JavaScript, React, NodeJS, MySQL, PostgreSQL, MongoDB, jQuery, Shell Scripting, Docker & Kubernetes
+- 💬 Ask me about: Java, Golang, Python, Flask, MySQL, PostgreSQL, MongoDB, JavaScript, jQuery, Bootstrap, Shell Scripting, Docker & Kubernetes
 
 - 🤔 I’m on: [Medium](https://randiltennakoon.medium.com)
 
