@@ -33,11 +33,11 @@
 
 ### 📕 Medium Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Flask Development](https://medium.com/codex/getting-started-with-flask-development-4b52752e9545?source=rss-71d60f60a8aa------2)
 - [How to install and run Microsoft SQL Server and MySQL on Mac](https://levelup.gitconnected.com/how-to-install-and-run-microsoft-sql-server-mysql-on-mac-421f9e4d9e9c?source=rss-71d60f60a8aa------2)
 - [How to use API Request in Python](https://blog.devgenius.io/how-to-use-api-request-in-python-6ef370f9f771?source=rss-71d60f60a8aa------2)
 - [Integrating Argo CD for Your Kubernetes Project](https://faun.pub/integrating-argo-cd-for-your-kubernetes-project-79ef16011433?source=rss-71d60f60a8aa------2)
 - [How to Use Kustomize for Your Kubernetes Projects](https://faun.pub/how-to-use-kustomize-for-your-kubernetes-projects-2f6c7f72fabb?source=rss-71d60f60a8aa------2)
-- [Getting Started with CronJobs in Kubernetes](https://faun.pub/getting-started-with-cronjobs-in-kubernetes-d3cfce10fd9b?source=rss-71d60f60a8aa------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
