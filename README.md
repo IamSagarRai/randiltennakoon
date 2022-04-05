@@ -33,11 +33,11 @@
 
 ### 📕 Medium Blogs
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to CI/CD with GitHub Actions](https://towardsdev.com/introduction-to-ci-cd-with-github-actions-9808d8a960c9?source=rss-71d60f60a8aa------2)
+- [Publish your Flask App Docker Image to Docker Hub using GitHub Actions](https://faun.pub/publish-your-flask-app-docker-image-to-docker-hub-using-github-actions-837d20dad71d?source=rss-71d60f60a8aa------2)
+- [Run your Flask App on Kubernetes](https://faun.pub/run-your-flask-app-on-kubernetes-ff03854db842?source=rss-71d60f60a8aa------2)
+- [Introduction to CI/CD with GitHub Actions](https://faun.pub/introduction-to-ci-cd-with-github-actions-9808d8a960c9?source=rss-71d60f60a8aa------2)
 - [Getting Started with Jenkins using Docker](https://medium.com/codex/getting-started-with-jenkins-using-docker-167781c18214?source=rss-71d60f60a8aa------2)
 - [Getting Started with Flask Development](https://medium.com/codex/getting-started-with-flask-development-4b52752e9545?source=rss-71d60f60a8aa------2)
-- [How to install and run Microsoft SQL Server and MySQL on Mac](https://levelup.gitconnected.com/how-to-install-and-run-microsoft-sql-server-mysql-on-mac-421f9e4d9e9c?source=rss-71d60f60a8aa------2)
-- [How to use API Request in Python](https://blog.devgenius.io/how-to-use-api-request-in-python-6ef370f9f771?source=rss-71d60f60a8aa------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
