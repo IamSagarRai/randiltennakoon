@@ -33,11 +33,11 @@
 
 ### 📕 Medium Blogs
 <!-- BLOG-POST-LIST:START -->
+- [How to Containerise your Django App](https://faun.pub/how-to-containerise-your-django-app-584e98b53077?source=rss-71d60f60a8aa------2)
 - [Run your First Django Project with a Modularised App](https://towardsdev.com/run-your-first-django-project-with-a-modularised-app-e92c583fb919?source=rss-71d60f60a8aa------2)
 - [Publish your Flask App Docker Image to Docker Hub using GitHub Actions](https://faun.pub/publish-your-flask-app-docker-image-to-docker-hub-using-github-actions-837d20dad71d?source=rss-71d60f60a8aa------2)
 - [Run your Flask App on Kubernetes](https://faun.pub/run-your-flask-app-on-kubernetes-ff03854db842?source=rss-71d60f60a8aa------2)
 - [Introduction to CI/CD with GitHub Actions](https://faun.pub/introduction-to-ci-cd-with-github-actions-9808d8a960c9?source=rss-71d60f60a8aa------2)
-- [Getting Started with Jenkins using Docker](https://medium.com/codex/getting-started-with-jenkins-using-docker-167781c18214?source=rss-71d60f60a8aa------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
