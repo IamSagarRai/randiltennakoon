@@ -33,11 +33,11 @@
 
 ### 📕 Medium Blogs
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Kubernetes &lpar;K8s&rpar; -Part 2](https://faun.pub/getting-started-with-kubernetes-k8s-part-2-4938623bce92?source=rss-71d60f60a8aa------2)
 - [Getting Started with Kubernetes &lpar;K8s&rpar; -Part 1](https://faun.pub/getting-started-with-kubernetes-k8s-part-1-126b0ab6a7b6?source=rss-71d60f60a8aa------2)
 - [How to Containerise your Django App](https://faun.pub/how-to-containerise-your-django-app-584e98b53077?source=rss-71d60f60a8aa------2)
 - [Run your First Django Project with a Modularised App](https://towardsdev.com/run-your-first-django-project-with-a-modularised-app-e92c583fb919?source=rss-71d60f60a8aa------2)
 - [Publish your Flask App Docker Image to Docker Hub using GitHub Actions](https://faun.pub/publish-your-flask-app-docker-image-to-docker-hub-using-github-actions-837d20dad71d?source=rss-71d60f60a8aa------2)
-- [Run your Flask App on Kubernetes](https://faun.pub/run-your-flask-app-on-kubernetes-ff03854db842?source=rss-71d60f60a8aa------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
