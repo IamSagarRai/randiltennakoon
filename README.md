@@ -33,11 +33,11 @@
 
 ### 📕 Medium Blogs
 <!-- BLOG-POST-LIST:START -->
+- [How to Connect Database to a Flask App -Part 2](https://blog.devgenius.io/how-to-connect-database-to-a-flask-app-part-2-a7e948cbb8dd?source=rss-71d60f60a8aa------2)
 - [How to Connect Database to a Flask App -Part 1](https://blog.devgenius.io/how-to-connect-database-to-a-flask-app-part-1-60611deea17a?source=rss-71d60f60a8aa------2)
 - [Getting Started with Kubernetes &lpar;K8s&rpar; -Part 3](https://faun.pub/getting-started-with-kubernetes-k8s-part-3-6510ff8c120c?source=rss-71d60f60a8aa------2)
 - [Getting Started with Kubernetes &lpar;K8s&rpar; -Part 2](https://faun.pub/getting-started-with-kubernetes-k8s-part-2-4938623bce92?source=rss-71d60f60a8aa------2)
 - [Getting Started with Kubernetes &lpar;K8s&rpar; -Part 1](https://faun.pub/getting-started-with-kubernetes-k8s-part-1-126b0ab6a7b6?source=rss-71d60f60a8aa------2)
-- [How to Containerise your Django App](https://faun.pub/how-to-containerise-your-django-app-584e98b53077?source=rss-71d60f60a8aa------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
