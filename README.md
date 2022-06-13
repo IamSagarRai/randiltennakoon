@@ -14,11 +14,9 @@
 - 😄 Pronouns: he/him/his  
 
 
-<!-- [![twitter-follower](https://img.shields.io/twitter/follow/randilt92?style=social)](https://twitter.com/randilt92) -->
-
 <!-- [![Instagram Badge](https://img.shields.io/badge/-randilt92-white?labelColor=white&logo=Instagram&logoColor=red&link=https://www.instagram.com/randilt92)](https://www.instagram.com/randilt92)  -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-randiltennakoon-white?logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/randiltennakoon)](https://www.linkedin.com/in/randiltennakoon) [![Medium Badge](https://img.shields.io/badge/-randiltennakoon-white?logo=Medium&logoColor=black&link=https://randiltennakoon.medium.com)](https://randiltennakoon.medium.com) [![StackOverflow Badge](https://img.shields.io/badge/-randiltennakoon-white?labelColor=white&logo=Stackoverflow&logoColor=orange&link=https://stackoverflow.com/users/13018789/randil-tennakoon)](https://stackoverflow.com/users/13018789/randil-tennakoon)
+[![Linkedin Badge](https://img.shields.io/badge/-randiltennakoon-white?logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/randiltennakoon)](https://www.linkedin.com/in/randiltennakoon) [![Medium Badge](https://img.shields.io/badge/-randiltennakoon-white?logo=Medium&logoColor=black&link=https://randiltennakoon.medium.com)](https://randiltennakoon.medium.com) [![StackOverflow Badge](https://img.shields.io/badge/-randiltennakoon-white?labelColor=white&logo=Stackoverflow&logoColor=orange&link=https://stackoverflow.com/users/13018789/randil-tennakoon)](https://stackoverflow.com/users/13018789/randil-tennakoon) [![twitter-follower](https://img.shields.io/twitter/follow/randiltwt?style=social)](https://twitter.com/randiltwt)
 
 
 ---
